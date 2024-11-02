@@ -2,22 +2,22 @@ import os, time
 
 class Config(object):
     # pyro client config
-    API_ID    = os.environ.get("API_ID", "")
-    API_HASH  = os.environ.get("API_HASH", "")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
+    API_ID    = os.environ.get("API_ID", "22606849")
+    API_HASH  = os.environ.get("API_HASH", "ef85493cd32eadcb5309b5957d8d1b86")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7610075983:AAF2TBtmqg-QySfb7DPwaRaz3gJY2Izwk-c") 
    
     # database config
-    DB_NAME = os.environ.get("DB_NAME","rename")     
-    DB_URL  = os.environ.get("DB_URL","")
+    DB_NAME = os.environ.get("DB_NAME","Meowtaro")     
+    DB_URL  = os.environ.get("DB_URL","mongodb+srv://meow:meow@meow.a6bo1.mongodb.net/?retryWrites=true&w=majority&appName=meow")
  
     # other configs
     BOT_UPTIME  = time.time()
     START_PIC   = os.environ.get("START_PIC", "")
-    ADMIN = int(os.environ.get("ADMIN", ""))
+    ADMIN = int(os.environ.get("ADMIN", "-6440021089"))
 
     # channels logs
-    FORCE_SUB   = os.environ.get("FORCE_SUB", "") 
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
+    FORCE_SUB   = os.environ.get("FORCE_SUB", "-1002034112983") 
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002134572304"))
     
 
     # wes response configuration     
