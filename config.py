@@ -77,7 +77,7 @@ class Txt(object):
 ➪ Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].           
 
 
-    PROGRESS_BAR = """<b>\n
+    PROGRESS_BAR = Downloading"""<b>\n
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
 ┣⪼ 🗃️ Sɪᴢᴇ: {1} | {2}
 ┣⪼ ⏳️ Dᴏɴᴇ : {0}%
