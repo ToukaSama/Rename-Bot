@@ -99,7 +99,7 @@ async def doc(bot, update):
     file_path = f"downloads/{new_filename}"
     file = update.message.reply_to_message
 
-    ms = await update.message.edit("Trying To Download")    
+    ms = await update.message.edit("Downloading in Progress")    
     try:
      	path = await bot.download_media(message=file, file_name=file_path, progress=progress_for_pyrogram,progress_args=("Downloading In Progress", ms, time.time()))                    
     except Exception as e:
