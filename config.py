@@ -12,7 +12,7 @@ class Config(object):
  
     # other configs
     BOT_UPTIME  = time.time()
-    START_PIC   = os.environ.get("START_PIC", "")
+    START_PIC   = os.environ.get("START_PIC", "https://telegra.ph/file/763566b86932ad9e6a1bc-f0b17991cef1d5afa1.jpg")
     ADMIN = int(os.environ.get("ADMIN", "-6440021089"))
 
     # channels logs
@@ -77,7 +77,7 @@ class Txt(object):
 ➪ Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].           
 
 
-    PROGRESS_BAR = """<b>\n
+    PROGRESS_BAR = downloading"""<b>\n
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
 ┣⪼ 🗃️ Sɪᴢᴇ: {1} | {2}
 ┣⪼ ⏳️ Dᴏɴᴇ : {0}%
