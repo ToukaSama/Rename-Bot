@@ -85,7 +85,7 @@ class Txt(object):
 ┣⪼ ⏳️ Dᴏɴᴇ : {0}%
 ┣⪼ 🚀 Sᴩᴇᴇᴅ: {3}/s
 ┣⪼ ⏰️ Eᴛᴀ: {4}
-┣⪼ ❣️Tnx : @Anime_Sovereign 
+┣⪼ ❣️ Tnx : @Anime_Sovereign 
 ╰━━━━━━━━━━━━━━━➣ </b>"""
 #ʀᴀᴘᴏ ᴄʀᴇᴀᴛᴏʀ https://github.com/AshutoshGoswami24
 #ʀᴀᴘᴏ https://github.com/AshutoshGoswami24/Rename-Bot
