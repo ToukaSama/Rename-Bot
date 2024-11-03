@@ -77,12 +77,13 @@ class Txt(object):
 ➪ Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].           
 
 
-    PROGRESS_BAR = Downloading"""<b>\n
+    PROGRESS_BAR = """<b>\n
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
 ┣⪼ 🗃️ Sɪᴢᴇ: {1} | {2}
 ┣⪼ ⏳️ Dᴏɴᴇ : {0}%
 ┣⪼ 🚀 Sᴩᴇᴇᴅ: {3}/s
 ┣⪼ ⏰️ Eᴛᴀ: {4}
+┣⪼ ❣️Tnx : @Anime_Sovereign 
 ╰━━━━━━━━━━━━━━━➣ </b>"""
 #ʀᴀᴘᴏ ᴄʀᴇᴀᴛᴏʀ https://github.com/AshutoshGoswami24
 #ʀᴀᴘᴏ https://github.com/AshutoshGoswami24/Rename-Bot
